@@ -1,5 +1,17 @@
 # React + Vite
 
+
+
+# React Assignment
+
+This project contains answers to 5 beginner React questions.
+
+## How to run
+Just open the HTML files in a browser OR run using a tool like CodeSandbox or VS Code with Live Server.
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
